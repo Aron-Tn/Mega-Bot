@@ -1,0 +1,10 @@
+#LWP-Cookies-1.0
+Set-Cookie3: ja_events_tpl=ja_events; path="/"; domain=akwa-service.ru; path_spec; expires="2019-01-06 09:53:30Z"; version=0
+Set-Cookie3: ja_trona_tpl=ja_trona; path="/"; domain=arkada-m.ru; path_spec; expires="2019-01-06 10:17:48Z"; version=0
+Set-Cookie3: ja_events_tpl=ja_events; path="/"; domain=irm.edu.vn; path_spec; expires="2019-01-06 16:14:29Z"; version=0
+Set-Cookie3: ja_tiris_tpl=ja_tiris; path="/"; domain=joyas-maricel.com.ar; path_spec; expires="2019-01-06 16:25:27Z"; version=0
+Set-Cookie3: mediaplan=R3058603602; path="/"; domain=latelierdupatrimoine.com; path_spec; expires="2018-01-16 18:27:04Z"; version=0
+Set-Cookie3: mediaplanBAK=R129295185; path="/"; domain=latelierdupatrimoine.com; path_spec; expires="2018-01-16 18:24:03Z"; version=0
+Set-Cookie3: visid_incap_654932=cZNqm0DGS36VGx5jcgqNDbJnXloAAAAAQUIPAAAAAACHGDYJ4Wef776vdYKBzB+R; path="/"; domain=maumarin.fr; path_spec; expires="2019-01-16 19:32:00Z"; version=0
+Set-Cookie3: ja_mesolite_tpl=ja_mesolite; path="/"; domain=murdansanggah.com; path_spec; expires="2019-01-06 21:25:55Z"; version=0
+Set-Cookie3: soifdevivre_tpl=soifdevivre; path="/"; domain=www.avecmoderation.org; path_spec; expires="2019-01-06 10:37:42Z"; version=0
