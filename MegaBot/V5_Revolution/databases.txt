@@ -1,0 +1,36 @@
+http://www.amerigosaddles.ch
+[+]DATABASE INFO
+[-]Database User = db12185097-5 
+[-]Database Password = 0N4Kwn8r
+[-]Database Name = db12185097-5
+[-]Database Host = localhost
+
+[+] FTP INFO
+[-]FTP Host = 
+[-]FTP Port = 
+[-]FTP User = 
+[-]FTP Pass = 
+
+[+] SMTP INFO
+[+]SMTP User = wp12185097-f1
+[-]SMTP Password = M45doLkE9
+[-]SMTP Port = 25
+[-]SMTP Host = localhost
+http://www.amerigosaddles.ch
+[+]DATABASE INFO
+[-]Database User = db12185097-5 
+[-]Database Password = 0N4Kwn8r
+[-]Database Name = db12185097-5
+[-]Database Host = localhost
+
+[+] FTP INFO
+[-]FTP Host = 
+[-]FTP Port = 
+[-]FTP User = 
+[-]FTP Pass = 
+
+[+] SMTP INFO
+[+]SMTP User = wp12185097-f1
+[-]SMTP Password = M45doLkE9
+[-]SMTP Port = 25
+[-]SMTP Host = localhost
