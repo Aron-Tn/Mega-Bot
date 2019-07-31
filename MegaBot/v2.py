@@ -4167,8 +4167,6 @@ def samara():
  For security Reasons XDDD
  you Can Make update Auto
  Contact us :
-  Facebook ARon-Tn : https://www.facebook.com/amir.othman.official
-  Facebook YassineHd : https://www.facebook.com/yassinehd.official
  ''')
 def ko():
  print ("""
@@ -4227,7 +4225,6 @@ def zibyy():
  print (""" 
                      {re}~{r}> {g}contact D3v3L0PP3R <{re}~{r}
 {re}~{r}> About ARON-TN{re}:
-      {g}Facebook  {re}: {y}https://www.facebook.com/amir.othman.official
       {g}E-mail    {re}: {r}[{b}aron.tn.official@gmail.com {r}] {y}
       {g}Youtube   {re}: {r}[{b}https://www.youtube.com/arontn-official or ARON-tn{r}]{y}
       {g}Site      {re}: {r}[{b}https://www.market0day.tk{r}]{y}
