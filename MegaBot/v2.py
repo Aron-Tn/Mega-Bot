@@ -4142,23 +4142,16 @@ def zabour():
   {c} Welcome Guys
    Show This tuto :
      https://bit.ly/2A3JQ1p
-   Any Problem ?!
-     Contact us :   
-	  {r}(ARON-TN)==> [+] Facebook : htttps://www.facebook.com/amir.othman.official
-	  {b}(Yassine HD)==> [+] Facebook : https://www.facebook.com/yassinehd.official
  ''').format(r=la7mar,b=lazra9,g=la5dhar,c=cyan)
 def zeb():
  print (""" 
                        {re}~{r}> {r}<{y}TNT{r}>{g} MegaBot {r}</{y}TNT{r}> <{re}~{r}
 {re}~{r}> About {re}: {y}
-     Coder     {re}: {b}ARON-tn & YassineHd {y}
-     Facebook  {re}: {r}[{b}https://www.facebook.com/amir.othman.official{r}] {y}  
-	 Facebook  {re}: {r}[{b}https://www.facebook.com/yassinehd.official{r}] {y}  
-     Instagram {re}: {r}[{b}https://www.instagram.com/amir__othman{r}]  {y}
+     Coders    {re}: {b}ARON-TN & YassineHd {y}
      E-mail    {re}: {r}[{b} aron.tn.official@gmail.com {r}] {y}
-     Youtube   {re}: {r}[{b}https://www.youtube.com/arontn-official Or ARON-tn {r}]{y}
+     Youtube   {re}: {r}[{b}https://www.youtube.com/arontn-official Or ARON-TN {r}]{y}
      Site      {re}: {r}[{b}https://www.market0day.tk{r}]{y}
-     Github    {re}: {r}[{b}https://www.github.com/ARON-tn{r}]{c}
+     Github    {re}: {r}[{b}https://www.github.com/ARON-TN{r}]{c}
 {g}Also you need to remove "http://" or "https://" from any websites list
 {re} ~{r}> {r}({c}C{r}){c}opyright 2018 - ARON-tn & YassineHd \033[00m""") .format(r=la7mar,b=lazra9,g=la5dhar,y=lasfar,re=ramadi,m=movv,c=cyan)
  raw_input("Press Enter To exit .. ")
@@ -4223,12 +4216,12 @@ def ko():
      print('\n')
 def zibyy():
  print (""" 
-                     {re}~{r}> {g}contact D3v3L0PP3R <{re}~{r}
+                     {re}~{r}> {g}contact D3v3L0PP3Rs <{re}~{r}
 {re}~{r}> About ARON-TN{re}:
       {g}E-mail    {re}: {r}[{b}aron.tn.official@gmail.com {r}] {y}
-      {g}Youtube   {re}: {r}[{b}https://www.youtube.com/arontn-official or ARON-tn{r}]{y}
+      {g}Youtube   {re}: {r}[{b}https://www.youtube.com/arontn-official or ARON-TN{r}]{y}
       {g}Site      {re}: {r}[{b}https://www.market0day.tk{r}]{y}
-      {g}Github    {re}: {r}[{b}https://www.github.com/ARON-tn {r}]{c}
+      {g}Github    {re}: {r}[{b}https://www.github.com/ARON-TN {r}]{c}
 {re}~{r}> About YassineHd{re}:
       {g}Facebook  {re}: {y}https://www.facebook.com/yassinehd.official
       {g}E-mail    {re}: {r}[{b}yassinexhd@gmail.com {r}] {y}
