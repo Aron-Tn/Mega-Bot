@@ -9,7 +9,7 @@ print """
 >  Tool Auto Exploiter
 """
 ```
-About Version 1 - Aron-Tn
+About Mega Bot
 ------
 
 ```python
@@ -65,5 +65,5 @@ print """
 *    Facebook-Pag : <a href="https://www.facebook.com/Aron.Tn/" target="_blank">Official Page !!</a>
 *    th3Cod3r : <a href="mailto:aron.tn.official@gmail.com">aron.tn.official@gmail.com</a>
 
-<br>©2019 Aron-Tn
+<br>©2018 Aron-Tn
 
