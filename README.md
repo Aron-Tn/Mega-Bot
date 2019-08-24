@@ -47,9 +47,9 @@ print """
 
 **How To Use ?**
 ----------
-*Windows*
+
 ```
-1) Install Python From https://www.python.org/downloads/windows (Python 2.7)
+1) Install Python From https://www.python.org/downloads/ (Python 2.7)
 5) Go To https://github.com/aron-tn/Mega-Bot And Download In ".zip" Format
 6) Extract Mega-Bot-master.zip 
 4) Just Click In v2.py
