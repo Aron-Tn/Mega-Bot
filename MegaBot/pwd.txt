@@ -1,4 +1,0 @@
-admin
-support
-sales
-info
