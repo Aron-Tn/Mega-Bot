@@ -1,53 +1,69 @@
-<h1>Mega Bot</h1>
-<p><a href="https://github.com/aron-tn/Mega-Bot"><img src="https://img.shields.io/badge/Mega%20Bot-2-green.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
-<a href="https://github.com/aron-tn/Mega-Bot"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/aron-tn/Mega-Bot"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
-<p>Mega Bot ☣ Scanner & Auto Exploiter<br>You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases</p>
+## Mega Bot ☣ Scanner & Auto Exploiter
 
-<h2>Mega Bot</h2>
+What's Mega Bot ?
+------
+```python
+from MegaBot import * 
+print """ 
+>  Tool Scanner
+>  Tool Auto Exploiter
+"""
+```
+About Version 1 - Aron-Tn
+------
 
-Mega Bot ☣ Scanner & Auto Exploiter
+```python
+from MegaBot import *  
+print """ 
+ +----------------------------------+----------------------------------+
+ 1) X4PriV8 V1                      | 22) XAttacker 2.5 (official)
+ 2) AUto Fixer(For Linux & Termux)  | 23) Bazooka Bot V1.2 (official)
+ 3) Mass zone-h Cleaners            | 24) izocin bot (official)
+ 4) X4R0N SENDER (GX40 Sender)      | 25) RXR Bot v2
+ 5) Smtp Cracker With Ip            | 26) BOT v3.7 Wolf Xbrang
+ 6) Smtp Cracker combo              | 27) CMS Remote SQL Injection
+ 7) Smtp Tester Work Or No          | 28) ZOmbi/DrHEx Bot v5.7
+ 8) zone-h AUTO ( DEFACE & POST )   | 29) Ccgen & Cc check
+ 9) How To Root Server              | 30) ProxyBroker
+ 10) J-Dorker                       | 31) MrSpy Bot V5
+ 11) EMAILS FILTER                  | 32) PayLoad Bot V3(AutoExploiter)
+ 12) CMS Filters                    | 33) Hasher(OnLY LINUX/TERMUX USERs)
+ 13) IP reverse                     | 34) PayPal MAil VAlid Checker
+ 14) Cut Url Using This script      | 35) Apple Email VAlid Checker
+ 15) PassWords list Maker           | 36) Facebook BruteForce
+ 16) WebApp Information Gatherer    | 37) Wordpress BruteForce
+ 17) social vuln scanner            | 38) Key Generator(steam-hma)
+ 18) 0day Priv8 Bot 2018            | 39) Osif Bot
+ 19) Th3inspector Bot               | 40) Xsmash Tool
+ 20) Auto Fucker Bot V1             | 41) expl joomla Com_s5clanroster
+ 21) BadMob Bot V2                  | 42) FBI Tool
+ +----------------------------------+----------------------------------+
+             98) contact D3v3L0PP3R  99) Check F0R Update
+"""
+```
+**First Step**
+----------
+*Click here and Subscribe 2 <a href="https://www.youtube.com/AronTnXofficial">ARON-TN</a> ..enjoy ^_^*
 
-<img src="https://i.imgur.com/QhXFV2V.png" data-canonical-src="https://i.imgur.com/QhXFV2V.png" style="max-width:100%;">
-
-<h2>Usage</h2>
-<code>v2.py</code>
-<hr>
-<h2>BUG ?</h2>
-<ul><li>Submit new issue</li></ul><hr>
-<h2>📧 Contact</h2>
-<li>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On Facebook : fb.com/amir.othman.official</li>
-<hr>
-
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-
-```bash
-git clone https://github.com/aron-tn/Mega-Bot.git
-cd Mega-Bot && cd MegaBot
-python2 v2.py
+**How To Use ?**
+----------
+*Windows*
+```
+1) Install Python From https://www.python.org/downloads/windows (Python 2.7)
+5) Go To https://github.com/aron-tn/Mega-Bot And Download In ".zip" Format
+6) Extract Mega-Bot-master.zip 
+4) Just Click In v2.py
+  Ps : Go To Youtube And See How To run Python 2.7
 ```
 
-## Installation [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
-
-Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
-
-```bash
-git clone https://github.com/aron-tn/Mega-Bot.git
-cd Mega-Bot && cd MegaBot
-python2 v2.py
+----------
 ```
-## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
-
-Download [cmder](https://github.com/cmderdev/cmder/releases/download/v1.3.11/cmder.zip)
-
-```bash
-cd Desktop
-git clone https://github.com/aron-tn/Mega-Bot.git
-cd Mega-Bot && cd MegaBot
-v2.py
+* Well, We will happy if u have any bugs but i will give good tutorials dont worry ;)
+* Contact Me Bro  ;VVV
 ```
-<h2>Version</h2>
-<strong>Current version is 2</strong>
-<strong>What's New </strong>
-<br>• Speed up
-<br>• Bug fixes
+*    Facebook-Acc : <a href="https://facebook.com/amyr.gov.tn" target="_blank">Official Account !!</a>
+*    Facebook-Pag : <a href="https://www.facebook.com/Aron.Tn/" target="_blank">Official Page !!</a>
+*    th3Cod3r : <a href="mailto:aron.tn.official@gmail.com">aron.tn.official@gmail.com</a>
+
+<br>©2019 Aron-Tn
+
