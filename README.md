@@ -61,8 +61,7 @@ print """
 * Well, We will happy if u have any bugs but i will give good tutorials dont worry ;)
 * Contact Me Bro  ;VVV
 ```
-*    Facebook-Acc : <a href="https://facebook.com/amyr.gov.tn" target="_blank">Official Account !!</a>
-*    Facebook-Pag : <a href="https://www.facebook.com/Aron.Tn/" target="_blank">Official Page !!</a>
+*    Facebook : <a href="https://www.facebook.com/Aron.Tn/" target="_blank">Official Page !!</a>
 *    th3Cod3r : <a href="mailto:aron.tn.official@gmail.com">aron.tn.official@gmail.com</a>
 
 <br>©2018 Aron-Tn
