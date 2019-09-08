@@ -62,7 +62,7 @@ print """
 * Contact Me Bro  ;VVV
 ```
 *    Facebook : <a href="https://www.facebook.com/Aron.Tn/" target="_blank">Official Page !!</a>
-*    th3Cod3r : <a href="mailto:aron.tn.official@gmail.com">aron.tn.official@gmail.com</a>
+*    th3Cod3r : <a href="mailto:Mr_Aron@protonmail.ch">Mr_Aron@protonmail.ch</a>
 
 <br>©2018 Aron-Tn
 
