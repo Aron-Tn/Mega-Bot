@@ -236,7 +236,7 @@ def zibyy():
                      {re}~{r}> {g}contact D3v3L0PP3Rs <{re}~{r}
 {re}~{r}> About ARON-TN{re}:
       {g}Facebook  {re}: {y}https://www.facebook.com/Aron.Tn/{y}
-      {g}E-mail    {re}: {r}[{b}aron.tn.official@gmail.com {r}] {y}
+      {g}E-mail    {re}: {r}[{b}Mr_Aron@protonmail.ch {r}] {y}
       {g}Youtube   {re}: {r}[{b}https://www.youtube.com/AronTnXofficial or ARON-TN{r}]{y}
       {g}Github    {re}: {r}[{b}https://www.github.com/ARON-TN {r}]{c}
 {re}~{r}> About YassineHd{re}:
